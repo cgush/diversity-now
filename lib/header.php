@@ -29,7 +29,7 @@
   </head>
 
 	<div class"span12">
-	<h1 class="indent">Diversity NOW!</h1>
+	<h1 class="indent">// DIVERSITY NOW!</h1>
 	</div>
   <body id="<?php echo $page; ?>">
 	

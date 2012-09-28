@@ -59,6 +59,11 @@ $page = 'supporters';
 			<a href="http://www.allwalks.org/home-page/centre-of-diversity/"><h2>www.allwalks.org/centre-of-diversity/</h2></a></div>
 			</div> <!-- Row F -->
 			
+			<div class="row" id="credits">
+				<h3>// Inspiration Image Credits</h3>
+				<img src="/diversity-now/img/student_image_credits.jpg">
+			</div> <!-- credits -->
+			
 		</div> <!-- /span9 offset1 -->
 		
     </div> <!-- /container -->

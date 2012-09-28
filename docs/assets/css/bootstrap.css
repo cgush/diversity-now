@@ -177,12 +177,12 @@ body {
 	-webkit-background-size:	cover;
 }
 
-#brief, #prize, #all-walks {
+#entry, #info, #supporters {
   background-image:url('/diversity-now/img/valerie.jpg');
   background-size:cover;
 }
 
-#entry, #info, #supporters {
+#brief, #prize, #all-walks {
   background-image:url('/diversity-now/img/pom-pom-boy.jpg'); 
   background-size:cover;
 
@@ -240,8 +240,17 @@ a {
   text-decoration: none;
 }
 
+span.reverse {
+	background-color: #FF00FF;
+	color: #EEE;
+}
+
+span.upper {
+	text-transform: uppercase;
+}
+
 a:hover {
-  color: #005580;
+  color: #EEE;
   text-decoration: underline;
 }
 
@@ -5116,9 +5125,9 @@ h1.indent {
 	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
 	
 	position:absolute;
-	bottom:280px;
-	right:-230px;
-	font-size: 6em;
+	bottom:175px;
+	right:-155px;
+	font-size: 3em;
 	text-transform:none;
 }
 
